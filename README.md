@@ -1,6 +1,6 @@
-# Formula-Calculator
+# Formula-Calculator (Formulator)
 
-# Formulator-C-Project
+
 
 Welcome to the **Formulator-C-Project** repository! Dive into the realm of mathematical and physics calculations with a versatile C-based Formulator program designed to simplify complex problems.
 
